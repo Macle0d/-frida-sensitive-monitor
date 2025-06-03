@@ -27,6 +27,7 @@ Y detecta patrones como:
 
 ```bash
 frida -U -n com.ejemplo.app -l monitor_universal.js
+```
 
 ## Autor
 
